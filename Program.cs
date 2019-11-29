@@ -1,4 +1,9 @@
-﻿using System;
+// Microsoft'un öğretim dokümanları temel alınmıştır.
+// Kaynak Bağlantısı: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
+// netsentez-nizamettin kaya
+// www.netsentez.com
+
+using System;
 
 namespace BankaHesabi
 {
