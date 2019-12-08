@@ -1,6 +1,8 @@
 # C# BankaHesabi (BankAccount) - .NET CORE 3
-The origin of this cod is Microsoft's tutorials. I made some small alterations. I translated the variables to Turkish.
-
-Tutorial: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
-
 C#'ın temel işlevlerinin kullanıldığı, Microsoft'un öğretim dokümanlarında açıklanan bir kod. Değişkenleri Türkçe'ye çevirdim.
+
+İlgili Microsoft Öğretim Dokümanı: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
+
+The origin of this cod is Microsoft's tutorials. I made some small alterations, translated the variables to Turkish.
+
+Related Microsoft Tutorial: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
