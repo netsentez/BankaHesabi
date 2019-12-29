@@ -1,8 +1,10 @@
 # C# BankaHesabi (BankAccount) - .NET CORE 3
-C#'ın temel işlevlerinin kullanıldığı, Microsoft'un öğretim dokümanlarında açıklanan bir kod. Değişkenleri Türkçe'ye çevirdim.
+C#'ın temel işlevlerinin kullanıldığı, Microsoft'un öğretim dokümanlarında açıklanan bir kod. Bazı küçük düzenlemeler yaptım, değişkenleri Türkçe'ye çevirdim.
 
-İlgili Microsoft Öğretim Dokümanı: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
+[.NET Fiddle](https://dotnetfiddle.net/SCCVt0)'da bu kodu çalışır halde görebilir, inceleyebilirsiniz.
+
+İlgili Microsoft Öğretim Dokümanı: [Sınıflar ve nesneler ile nesne odaklı programlamayı keşfet](https://docs.microsoft.com/tr-tr/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
 
 The origin of this cod is Microsoft's tutorials. I made some small alterations, translated the variables to Turkish.
 
-Related Microsoft Tutorial: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes
+Related Microsoft Tutorial: [Explore object oriented programming with classes and objects](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
