@@ -5,6 +5,6 @@ C#'ın temel işlevlerinin kullanıldığı, Microsoft'un öğretim dokümanlar�
 
 İlgili Microsoft Öğretim Dokümanı: [Sınıflar ve nesneler ile nesne odaklı programlamayı keşfet](https://docs.microsoft.com/tr-tr/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
 
-The origin of this cod is Microsoft's tutorials. I made some small alterations, translated the variables to Turkish.
+The origin of this cod is in Microsoft's tutorials. I made some minor alterations, translated the variables into Turkish.
 
-Related Microsoft Tutorial: [Explore object oriented programming with classes and objects](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
+Related Microsoft Tutorial: [Explore object-oriented programming with classes and objects](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/introduction-to-classes)
